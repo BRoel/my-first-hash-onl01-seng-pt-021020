@@ -47,6 +47,5 @@ def adding
 
   # return the shipping_manifest hash below
   }
-end
-shipping_manifest
+puts shipping_manifest
 end
